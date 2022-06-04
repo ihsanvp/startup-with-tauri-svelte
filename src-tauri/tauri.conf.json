@@ -29,7 +29,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.studiotwofour.startup",
+      "identifier": "com.studiotwofour.startup-svelte",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
